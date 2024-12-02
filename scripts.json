@@ -1,0 +1,24 @@
+{
+  "scripts": [
+    {
+      "name": "Test Script",
+      "author": "Example Author",
+      "version": "1.0.0",
+      "description": "Tests functionality.\ntest\n\nteststst",
+      "filename": "test.lua",
+      "tags": ["test", "example"],
+      "dependencies": [],
+      "last_updated": "2024-01-01"
+    },
+    {
+      "name": "Custom ESP",
+      "author": "Another Author",
+      "version": "2.1.0", 
+      "description": "Advanced ESP with custom rendering options and additional information display.",
+      "filename": "custom_esp.lua",
+      "tags": ["esp", "visuals"],
+      "dependencies": [],
+      "last_updated": "2024-01-15"
+    }
+  ]
+}
