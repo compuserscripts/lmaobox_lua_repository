@@ -1,10 +1,16 @@
 {
+  "repository": {
+    "name": "Example Repository",
+    "description": "Repository description",
+    "last_updated": "2024-01-01",
+    "author": "Repository Author"
+  },
   "scripts": [
     {
       "name": "Test Script",
       "author": "Example Author",
       "version": "1.0.0",
-      "description": "Tests functionality.\ntest\n\nteststst",
+      "description": "Tests functionality.",
       "filename": "test.lua",
       "tags": ["test", "example"],
       "dependencies": [],
@@ -41,7 +47,7 @@
       "last_updated": "2024-01-15"
     },
     {
-      "name": "Custom ESP",
+      "name": "Custom ESsfdfsdfsdP",
       "author": "Another Author",
       "version": "2.1.0", 
       "description": "Advanced ESP with custom rendering options and additional information display.",
@@ -161,7 +167,7 @@
       "last_updated": "2024-01-15"
     },
     {
-      "name": "Custom ESP222222",
+      "name": "Custom ESP4242424",
       "author": "Another Author",
       "version": "2.1.0", 
       "description": "Advanced ESP with custom rendering options and additional information display.",
