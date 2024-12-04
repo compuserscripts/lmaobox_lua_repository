@@ -25,6 +25,16 @@
       "tags": ["esp", "visuals"],
       "dependencies": [],
       "last_updated": "2024-01-15"
-    }
+    },
+    {
+      "name": "Damage logger v2",
+      "author": "RC",
+      "version": "2.0", 
+      "description": "Advanced ESP with custom rendering options and additional information display.",
+      "filename": "damage2.lua",
+      "tags": ["esp", "visuals"],
+      "dependencies": [],
+      "last_updated": "2024-01-15"
+    },
   ]
 }
